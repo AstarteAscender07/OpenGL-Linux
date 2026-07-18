@@ -1,0 +1,9 @@
+build/
+*.o
+*.exe
+*.out
+
+#For Some Compilers ig
+.vscode/
+.DS_Store
+*.user
