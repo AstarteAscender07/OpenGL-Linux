@@ -1,9 +1,13 @@
+
 build/
 *.o
 *.exe
 *.out
 
-#For Some Compilers ig
-.vscode/
+*.swp
+*.swo
+*~
+.netrwhist
+
+
 .DS_Store
-*.user
